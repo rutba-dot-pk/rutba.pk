@@ -1,0 +1,124 @@
+{
+  "generator": "rutba-social-poster/docs",
+  "version": 1,
+  "subdir": "",
+  "files": [
+    "2-3-piece-all-over-suits.md",
+    "2-3-piece-stitched-suits.md",
+    "2-and-3-piece-bags.md",
+    "3-piece-unstitched-lawn.md",
+    "README.md",
+    "alkaram-gents-latha.md",
+    "body-mist.md",
+    "fancy-collection.md",
+    "fancy-stitched-collection.md",
+    "hand-bags.md",
+    "j.perfumes.md",
+    "miss-rose.md",
+    "other-posts.md",
+    "to-selling-products.md",
+    "wash-and-wear.md"
+  ],
+  "groups": [
+    {
+      "slug": "2-and-3-piece-bags",
+      "name": "2 AND 3 PIECE BAGS ",
+      "file": "2-and-3-piece-bags.md",
+      "posts": 7,
+      "latest": "2026-08-08"
+    },
+    {
+      "slug": "2-3-piece-all-over-suits",
+      "name": "2-3 PIECE ALL OVER SUITS ",
+      "file": "2-3-piece-all-over-suits.md",
+      "posts": 5,
+      "latest": "2026-08-08"
+    },
+    {
+      "slug": "3-piece-unstitched-lawn",
+      "name": "3-piece unstitched lawn ",
+      "file": "3-piece-unstitched-lawn.md",
+      "posts": 23,
+      "latest": "2026-08-08"
+    },
+    {
+      "slug": "alkaram-gents-latha",
+      "name": "ALKARAM GENTS LATHA",
+      "file": "alkaram-gents-latha.md",
+      "posts": 3,
+      "latest": "2026-08-08"
+    },
+    {
+      "slug": "body-mist",
+      "name": "BODY MIST/SPRAY",
+      "file": "body-mist.md",
+      "posts": 7,
+      "latest": "2026-08-08"
+    },
+    {
+      "slug": "2-3-piece-stitched-suits",
+      "name": "CASUAL STITCHED SUITS",
+      "file": "2-3-piece-stitched-suits.md",
+      "posts": 22,
+      "latest": "2026-08-08"
+    },
+    {
+      "slug": "fancy-collection-",
+      "name": "FANCY COLLECTION UNSTITCHED",
+      "file": "fancy-collection.md",
+      "posts": 17,
+      "latest": "2026-08-08"
+    },
+    {
+      "slug": "fancy-stitched-collection",
+      "name": "FANCY STITCHED COLLECTION",
+      "file": "fancy-stitched-collection.md",
+      "posts": 5,
+      "latest": "2026-08-08"
+    },
+    {
+      "slug": "hand-bags",
+      "name": "HAND BAGS",
+      "file": "hand-bags.md",
+      "posts": 33,
+      "latest": "2026-08-08"
+    },
+    {
+      "slug": "j.perfumes",
+      "name": "J.PERFUMES",
+      "file": "j.perfumes.md",
+      "posts": 11,
+      "latest": "2026-08-08"
+    },
+    {
+      "slug": "miss-rose-",
+      "name": "MISS ROSE  ",
+      "file": "miss-rose.md",
+      "posts": 56,
+      "latest": "2026-08-08"
+    },
+    {
+      "slug": "other-posts",
+      "name": "Other posts",
+      "file": "other-posts.md",
+      "posts": 281,
+      "latest": "2026-08-08"
+    },
+    {
+      "slug": "to-selling-products",
+      "name": "To Selling products",
+      "file": "to-selling-products.md",
+      "posts": 11,
+      "latest": "2026-08-08"
+    },
+    {
+      "slug": "wash-and-wear",
+      "name": "WASH&WEAR ",
+      "file": "wash-and-wear.md",
+      "posts": 18,
+      "latest": "2026-08-08"
+    }
+  ],
+  "posts": 490,
+  "latest": "2026-08-08"
+}
